@@ -5,4 +5,5 @@ Here we will publish the persimmon data set we collected through aerial photogra
 
 ⭐: After cropping preprocessing and labelimg annotation, there are a total of 1869 images.
 
-⭐：
+# Release time
+⭐： At present, the paper is being submitted. The persimmon data set will be released when the paper is accepted. Thanks!
