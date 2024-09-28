@@ -7,3 +7,6 @@ Here we will publish the persimmon data set we collected through aerial photogra
 
 # Release time
 ⭐： At present, the paper is being submitted. The persimmon data set will be released when the paper is accepted. Thanks!
+
+# Labels
+⭐: XML and TXT formats
